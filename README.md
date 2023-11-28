@@ -34,17 +34,6 @@
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
-###
-
-<div align="left">
-  <img height="165" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fpower-bi-logo%2F&psig=AOvVaw06an-bMTcxZshcA1xoh7pw&ust=1701280012590000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCOjKzYig54IDFQAAAAAdAAAAABAE"  />
-</div>
-
-###
-
-<div align="right">
-  <img height="200" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia0.giphy.com%2Favatars%2FTableau_Software%2FGyd7R0HOawlH.png&tbnid=dZ8JmwZLOUBCDM&vet=12ahUKEwibuK2roOeCAxVvbmwGHdDwA8QQMygIegUIARCGAQ..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Ftableau&docid=LdtF5ngBYNtx5M&w=300&h=296&q=tableau%20logo%20gif&ved=2ahUKEwibuK2roOeCAxVvbmwGHdDwA8QQMygIegUIARCGAQ"  />
-</div>
 
 ###
 
