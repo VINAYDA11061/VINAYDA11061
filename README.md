@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me<br>I'm a passionate data analyst with a keen interest in transforming raw data into meaningful insights. I love exploring and visualizing data to uncover patterns and trends that drive informed decision-making.</h2>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -33,7 +33,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
 </div>
-
 
 ###
 
