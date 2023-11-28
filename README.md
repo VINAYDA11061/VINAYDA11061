@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Vinay Kumar and I'm a Data Analyst, from India.<br>Let's connect and explore the endless possibilities that data holds. <br>Feel free to reach out—I'm always up for a chat about data, analytics, or anything in between!</p>
-
+<img align ="right" alt="Analysis" width="400" src="![image](https://github.com/VINAYDA11061/Vinay-/assets/125648329/67864b32-8a0f-4234-8304-6318e866b556)">
 ###
 
 <h2 align="left">About me</h2>
