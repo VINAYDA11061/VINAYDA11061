@@ -1,4 +1,9 @@
-![logo](https://github.com/VINAYDA11061/Vinay-/blob/main/Online-Data-Analytics-Courses.png)
+  <br clear="both">
+
+<div align="left">
+  <img height="300" width="2000" src="https://successive.cloud/wp-content/uploads/2022/04/Data-Analytics-Benefits-768x403.png"  />
+</div>
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -33,15 +38,22 @@
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="(https://431a1970-f083-479c-b7fd-7ecb9d61ca41.svg)" height="40"  />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
 
-  
-</div>
 
 ###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vinay-kumar-m-367173227" target="blank"><img align="center" src="https://github.com/VINAYDA11061/Vinay-/assets/125648329/7323ce41-0cd6-4b8f-b94a-49cd8b76340c
-.svg" alt="vinay-kumar-m-367173227" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vinaykumar11061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinaykumar11061" height="30" width="40" /></a>
-</p>
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> vinaykumar11061@gmail.com
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" href="https://linkedin.com/in/vinay-kumar-m-367173227"  /> https://www.linkedin.com/in/vinay-kumar-m-367173227/
+</div>
+
+###
+</div>
+
+###
+
