@@ -37,5 +37,11 @@
 ###
 
 <p align="left"></p>
+ 📫 How to reach me **vinaykumar11061@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/in/vinay-kumar-m-367173227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/vinay-kumar-m-367173227" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@vinaykumar11061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vinaykumar11061" height="30" width="40" /></a>
+</p>
 ###
