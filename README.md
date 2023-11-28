@@ -1,7 +1,7 @@
   <br clear="both">
 
 <div align="left">
-  <img height="300" width="2000" src="https://successive.cloud/wp-content/uploads/2022/04/Data-Analytics-Benefits-768x403.png"  />
+  <img height="500" width="2000" src="https://successive.cloud/wp-content/uploads/2022/04/Data-Analytics-Benefits-768x403.png"  />
 </div>
 
 <h1 align="left">Hey 👋 What's up?</h1>
@@ -37,11 +37,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="(https://431a1970-f083-479c-b7fd-7ecb9d61ca41.svg)" height="40"  />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-
-
+  
 ###
 
 <h3 align="left">Connect with me:</h3>
