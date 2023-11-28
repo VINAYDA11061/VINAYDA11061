@@ -4,7 +4,7 @@
   <img height="300" width="800" src="https://successive.cloud/wp-content/uploads/2022/04/Data-Analytics-Benefits-768x403.png"  />
 </div>
 
-<h1 align="left">Hey 👋 What's up?</h1> ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+<h1 align="left">Hey 👋 What's up?
 
 ###
 
@@ -46,9 +46,7 @@
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> vinaykumar11061@gmail.com
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" href="https://linkedin.com/in/vinay-kumar-m-367173227"  /> https://www.linkedin.com/in/vinay-kumar-m-367173227/
-</div>
 
-###
 </div>
 
 ###
