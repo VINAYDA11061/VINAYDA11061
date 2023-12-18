@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<p align="left">What  I  do as Data Analyst<br><br>- **Data Analysis:** I specialize in analyzing large datasets to identify trends, patterns, and outliers. From exploratory data analysis to statistical modeling, I enjoy the entire data analysis pipeline.<br>  <br>- **Data Visualization:** I believe in the power of visualization to communicate complex findings. I use tools like Matplotlib, Seaborn, and Plotly to create compelling charts and graphs that tell a clear and engaging data story.<br><br>- **Database Management:** Proficient in SQL, I handle data extraction, transformation, and loading (ETL) tasks. I ensure data integrity and optimize queries for efficient data retrieval.<br><br>- **Machine Learning:** I apply machine learning techniques to build predictive models and uncover insights that drive data-informed decision-making.</p>
+<p align="left">What  I  do as Data Analyst<br><br> ## **Data Analysis:** I specialize in analyzing large datasets to identify trends, patterns, and outliers. From exploratory data analysis to statistical modeling, I enjoy the entire data analysis pipeline.<br>  <br> ## **Data Visualization:** I believe in the power of visualization to communicate complex findings. I use tools like Matplotlib, Seaborn, and Plotly to create compelling charts and graphs that tell a clear and engaging data story.<br><br>## **Database Management:** Proficient in SQL, I handle data extraction, transformation, and loading (ETL) tasks. I ensure data integrity and optimize queries for efficient data retrieval.<br><br>## **Machine Learning:** I apply machine learning techniques to build predictive models and uncover insights that drive data-informed decision-making.</p>
 
 ###
 
