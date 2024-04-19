@@ -45,7 +45,8 @@
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> vinaykumar11061@gmail.com
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" href="https://linkedin.com/in/vinay-kumar-m-367173227"  /> https://www.linkedin.com/in/vinay-kumar-m-367173227/
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" href="https://linkedin.com/in/vinay-kumar-m-367173227"  /> https://www.linkedin.com/in/vinay-kumar-m-367173227/ 
+  <img src="[https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge](https://www.google.com/imgres?q=tableau%20logo&imgurl=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2021%2F10%2FTableau-Logo.png&imgrefurl=https%3A%2F%2Flogos-world.net%2Ftableau-logo%2F&docid=7f2db5iTsx1aHM&tbnid=nteZQ538iDMTWM&vet=12ahUKEwj__5qkkc6FAxXY9zgGHZeCBv0QM3oECBMQAA..i&w=3840&h=2160&hcb=2&ved=2ahUKEwj__5qkkc6FAxXY9zgGHZeCBv0QM3oECBMQAA)" height="35" alt="TABLEAU logo"  /> https://public.tableau.com/app/profile/vinay.kumar.m/vizzes
 
 </div>
 
