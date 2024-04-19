@@ -46,7 +46,9 @@
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> vinaykumar11061@gmail.com
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" href="https://linkedin.com/in/vinay-kumar-m-367173227"  /> https://www.linkedin.com/in/vinay-kumar-m-367173227/ 
-  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png"  height="35" alt="TABLEAU"  /> https://public.tableau.com/app/profile/vinay.kumar.m/vizzes
+ 
+  
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png"  height="50" alt="TABLEAU"  /> https://public.tableau.com/app/profile/vinay.kumar.m/vizzes
 
 </div>
 
