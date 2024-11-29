@@ -1,7 +1,8 @@
   <br clear="both">
 
 <div align="left">
-  <img height="300" width="800" src="https://successive.cloud/wp-content/uploads/2022/04/Data-Analytics-Benefits-768x403.png"  />
+  <img height="300" width="800" src="  https://github.com/VINAYDA11061/VINAYDA11061/issues/new"  />
+ 
 </div>
 
 <h1 align="left">Hey 👋 What's up?
