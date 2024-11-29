@@ -1,7 +1,7 @@
   <br clear="both">
 
 <div align="left">
-![Black Elegant Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/3e878c27-c5f4-4638-8504-44f9e5a0dd45)
+https://github.com/user-attachments/assets/3e878c27-c5f4-4638-8504-44f9e5a0dd45
 
 
 
